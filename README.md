@@ -1,5 +1,5 @@
 
-AI Trip Planner ✈️🌍
+## AI Trip Planner ✈️🌍
 
 An AI-powered trip planner that provides tailored itineraries based on user preferences. This project uses the OpenAI API to create personalized travel plans, ensuring your trips are perfectly suited to your interests and style. Built with TypeScript and Tailwind CSS, it features a sleek and intuitive interface for an exceptional user experience.
 
